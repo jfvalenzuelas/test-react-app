@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Testing new push  
+          Wir deployen V2  
         </p>
         <a
           className="App-link"
